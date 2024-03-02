@@ -1,0 +1,15 @@
+C:\Users\Katarina\Desktop\Last Task\bin\Debug\net8.0\Last Task.exe
+C:\Users\Katarina\Desktop\Last Task\bin\Debug\net8.0\Last Task.deps.json
+C:\Users\Katarina\Desktop\Last Task\bin\Debug\net8.0\Last Task.runtimeconfig.json
+C:\Users\Katarina\Desktop\Last Task\bin\Debug\net8.0\Last Task.dll
+C:\Users\Katarina\Desktop\Last Task\bin\Debug\net8.0\Last Task.pdb
+C:\Users\Katarina\Desktop\Last Task\obj\Debug\net8.0\Last Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katarina\Desktop\Last Task\obj\Debug\net8.0\Last Task.AssemblyInfoInputs.cache
+C:\Users\Katarina\Desktop\Last Task\obj\Debug\net8.0\Last Task.AssemblyInfo.cs
+C:\Users\Katarina\Desktop\Last Task\obj\Debug\net8.0\Last Task.csproj.CoreCompileInputs.cache
+C:\Users\Katarina\Desktop\Last Task\obj\Debug\net8.0\Last Task.sourcelink.json
+C:\Users\Katarina\Desktop\Last Task\obj\Debug\net8.0\Last Task.dll
+C:\Users\Katarina\Desktop\Last Task\obj\Debug\net8.0\refint\Last Task.dll
+C:\Users\Katarina\Desktop\Last Task\obj\Debug\net8.0\Last Task.pdb
+C:\Users\Katarina\Desktop\Last Task\obj\Debug\net8.0\Last Task.genruntimeconfig.cache
+C:\Users\Katarina\Desktop\Last Task\obj\Debug\net8.0\ref\Last Task.dll
